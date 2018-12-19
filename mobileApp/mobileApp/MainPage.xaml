@@ -17,8 +17,8 @@
                TextColor="White"/>
 
         <Image x:Name="imageMain" 
-               HeightRequest="301"
-               WidthRequest="301"  >
+               HeightRequest="300"
+               WidthRequest="300"  >
         </Image>
         
         <Label VerticalOptions="Center"
